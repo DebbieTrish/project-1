@@ -1,0 +1,43 @@
+.advert {
+  background-color: rgb(52, 17, 175);
+  position: absolute;
+  font-family: arial;
+  width: 10cm;
+  height: 5cm;
+  margin-top: 36.5%;
+  border-radius: 4%;
+  margin-left: 70%;
+}
+.advert h3 {
+  font-size: larger;
+  color: white;
+  margin-inline: auto;
+  padding: 2%;
+}
+.router {
+  background-color: rgb(14, 148, 130);
+  position: absolute;
+  font-family: arial;
+  width: 10cm;
+  height: 5cm;
+  margin-top: 18%;
+  border-radius: 4%;
+  margin-left: 70%;
+}
+.Large {
+  background-color: rgb(8, 139, 19);
+  position: absolute;
+  font-family: arial;
+  width: 10cm;
+  height: 10.5cm;
+  margin-top: 18%;
+  border-radius: 4%;
+  margin-left: 12cm;
+  background-image: url("image/deb.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 9cm;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
