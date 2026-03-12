@@ -1,0 +1,106 @@
+body {
+  background-image: url("deb.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  width: calc(100%-48px);
+  margin-inline: 30px;
+  background-color: rgba(228, 106, 165, 0.867);
+}
+*,
+*::before,
+*::after {
+  box-sizing: 0;
+}
+img {
+  border-radius: 100px;
+  margin-left: 50px;
+  width: 200px;
+}
+.fr {
+  font-size: smaller;
+  font-style: normal;
+  font-weight: 100;
+  font-display: calc(100%-48px);
+  color: hsl(49, 97%, 49%);
+}
+.lorem {
+  font-size: medium;
+  font-style: italic;
+  font-weight: 100;
+  font-display: calc(100%-48px);
+  color: hsl(135, 97%, 49%);
+  background-image: url("deb.jpg");
+  height: 200px;
+  background-size: cover;
+  background-color: antiquewhite;
+}
+.gr {
+  font-style: normal;
+  font-weight: 100;
+  font-display: calc(100%-48px);
+}
+.br {
+  font-style: normal;
+  font-weight: 100;
+  font-display: calc(100%-48px);
+}
+.sis {
+  font-size: smaller;
+  font-style: normal;
+  font-weight: 100;
+}
+nav {
+  background-color: wheat;
+}
+ul {
+  list-style: circle;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+li {
+  margin-right: 40px;
+}
+a {
+  color: white;
+  text-decoration: dotted;
+  padding: 10px;
+  display: block;
+}
+a:hover {
+  background-color: red;
+}
+/*.advert {
+  background-color: rgb(52, 17, 175);
+  font-family: arial;
+  width: 10cm;
+  height: 5cm;
+  margin-top: 10%;
+  border-radius: 4%;
+  margin-left: 70%;
+}
+.advert h3 {
+  font-size: larger;
+  color: white;
+  margin-inline: auto;
+  padding: 2%;
+}
+.router {
+  background-color: rgb(14, 148, 130);
+  font-family: arial;
+  width: 10cm;
+  height: 5cm;
+  margin-top: 10%;
+  border-radius: 4%;
+  margin-left: 70%;
+}
+.Large {
+  background-color: rgb(8, 139, 19);
+  font-family: arial;
+  width: 10cm;
+  height: 10.5cm;
+  margin-top: 10%;
+  border-radius: 4%;
+  margin-left: 60%;
+}*/
